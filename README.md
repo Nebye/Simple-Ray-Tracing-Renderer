@@ -18,6 +18,6 @@ Just made an initial output image in the form of a ppm file (converted into png 
 
 ## Day 02
 Decided to focus on another project for today but didn't want to completely skip out on this for a whole day so I read up on some old notes/textbook sections pertaining to ray tracing such as newtons method for root finding and algorithms for the surface intersections of rays with primitives.\
-Will definitely get a good few sections of actual implementation done tomorrow....
+Will definitely get a good few sections of actual implementation done tomorrow...hopefully...
 
 ## Day 03
