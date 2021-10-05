@@ -10,7 +10,7 @@ A simple ray tracing renderer, pretty basic but mostly just used as a learning t
 
 I will be following this [guide](https://raytracing.github.io/books/RayTracingInOneWeekend.html) to help me implement methods I have only read about till now.  This is my first go at making any kind of renderer from scratch.
 
-Done completely on the CPU as performance isn't my goal; not necessarily deal with drivers, GPU communication, etc.
+Done completely on the CPU as implementation is my goal from top to bottom; not necessarily deal with drivers, GPU communication, optimize for efficiency etc (at least not yet).
 
 I'll try to document a few thoughts as I progress below.
 
