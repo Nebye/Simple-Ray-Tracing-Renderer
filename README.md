@@ -2,7 +2,7 @@
 
 ## Directory (Probably should move most of this stuff to the wiki...)
 - [Project Description/Outline](#project-description)
-- [Journal](#day-01)
+- [Journal](#project-journal)
 - [Run Instructions](#run-instructions)
 
 ## Project Description
@@ -13,6 +13,8 @@ I will be following this [guide](https://raytracing.github.io/books/RayTracingIn
 Done completely on the CPU as performance isn't my goal; not necessarily deal with drivers, GPU communication, etc.
 
 I'll try to document a few thoughts as I progress below.
+
+## Project Journal
 
 ### Day 01
 Wanted to get started even though I didn't have much time today. At the very least, this should propel me into getting a more sizable amount done tomorrow!
