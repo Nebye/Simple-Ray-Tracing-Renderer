@@ -26,6 +26,9 @@ Status: Have not even looked into it.
 - Importing fbx and obj files into scene [HARD]\
 Description: Extract appropriate data from .obj and/or .fbx files to put objects in a scene.\
 Status: Nope, will start after natural end of project
+- Subsurface Scattering on certain materials/objects [HARD]\
+Description: \
+Status: Nope, will start after natural end of project
 
 ## Project Journal
 
