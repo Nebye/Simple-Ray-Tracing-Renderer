@@ -20,6 +20,9 @@ I'll try to document a few thoughts as I progress below.
 - Change Progress Indicator to Progress Bar [EASY]\
 Description: No need for elaboration.\
 Status: Almost done already.
+- GUI [MEDIUM]\
+Description: Simple GUI to run over the application\
+Status: Will start after the natural end of project (possibly sooner), will likely be one of the first of the "Extra TODOs" that I will do, due to it's ability to make testing and typical user use easier.
 - GPU Render [HARD]\
 Description: Make the GPU (if available) run the computation.\
 Status: Have not even looked into it.
